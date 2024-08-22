@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Engenheiro formado pela UNICAMP com experiência em gestão de projetos e produtos, análise de dados e inteligência artificial atuando em consultoria e startup. Busco oportunidades nas áreas de gestão de produto, business intelligence, dados , desenvolvimento de novos negócios e gestão de projetos, onde posso aplicar minha expertise técnica e visão analítica para tomar decisões embasadas em dados, identificar oportunidades de mercado e desenvolver estratégias eficientes. Disponível e motivado para fazer acontecer.
+Engenheiro formado pela UNICAMP com experiência em gestão de projetos e produtos, análise de dados e inteligência artificial atuando em consultoria e startup. Busco oportunidades nas áreas de gestão de produto, business intelligence, dados, desenvolvimento de novos negócios e gestão de projetos, onde posso aplicar minha expertise técnica e visão analítica para tomar decisões embasadas em dados, identificar oportunidades de mercado e desenvolver estratégias eficientes. Disponível e motivado para fazer acontecer.
 
 Atualmente, estou focado em desenvolver projetos de **Data Visualization (DataViz)** e **Exploratory Data Analysis (EDA)** usando PowerBI e Python. Meu objetivo é construir uma coleção de análises e visualizações que demonstrem meu conhecimento e habilidades na área.
 
@@ -14,7 +14,7 @@ Atualmente, estou focado em desenvolver projetos de **Data Visualization (DataVi
 
 - **[Dashboard Financeiro](#)**: [Dashboard Financeiro.](https://app.powerbi.com/view?r=eyJrIjoiOTQ0NGQwMGMtN2E1Mi00MDMzLWIyNDItZGM2NGQ2MmM2ZmI4IiwidCI6ImMxNDVmOGI2LWFmYWMtNDFiYy1hZDcwLWQyZDY0NWVkMTEyOSJ9)
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis (loading...)
 
 - **[Projeto 1](#)**: Descrição breve do projeto.
 - **[Projeto 2](#)**: Descrição breve do projeto.
