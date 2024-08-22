@@ -10,7 +10,7 @@ Atualmente, estou focado em desenvolver projetos de **Data Visualization (DataVi
 
 ### Data Visualization
 
-- **[Dashboard de logística](#)**: [Dashboard Logística.].(https://app.powerbi.com/view?r=eyJrIjoiNmJjMjlhNGItODllOC00MGY2LTgxZjUtNTNiYzk2ZGYyZTgzIiwidCI6ImMxNDVmOGI2LWFmYWMtNDFiYy1hZDcwLWQyZDY0NWVkMTEyOSJ9).
+- **[Dashboard de logística](#)**: [Dashboard Logística.](https://app.powerbi.com/view?r=eyJrIjoiNmJjMjlhNGItODllOC00MGY2LTgxZjUtNTNiYzk2ZGYyZTgzIiwidCI6ImMxNDVmOGI2LWFmYWMtNDFiYy1hZDcwLWQyZDY0NWVkMTEyOSJ9).
 
 - **[Dashboard Financeiro](#)**: [Dashboard Financeiro.](https://app.powerbi.com/view?r=eyJrIjoiOTQ0NGQwMGMtN2E1Mi00MDMzLWIyNDItZGM2NGQ2MmM2ZmI4IiwidCI6ImMxNDVmOGI2LWFmYWMtNDFiYy1hZDcwLWQyZDY0NWVkMTEyOSJ9)
 
