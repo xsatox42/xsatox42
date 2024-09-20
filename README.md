@@ -21,7 +21,7 @@ Atualmente, estou focado em desenvolver projetos de **Data Visualization (DataVi
 ### Exploratory Data Analysis (...loading...)
 
 - **Projeto 7 Days of Code - Pandas**: [Exploração de Dados de Empréstimos.](https://github.com/xsatox42/projeto-7daysofcode-pandas). Neste projeto, foram explorados dados sobre os empréstimos de acervos do sistema de bibliotecas da UFRN.
-- **loading...**
+- **Desafio - EBA - Ifood**:[Exploração de base de Dados de Clientes.](https://github.com/xsatox42/eba-desafio-ifood). Neste projeto, foram explorados dados sobre perfil de clientes do Ifood.
 
 ## Tecnologias e Ferramentas
 
